@@ -1,0 +1,42 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Jeff X V1",
+	"namespace": "jeffx",
+	"authors": [
+		"Link"
+	],
+	"targetVersion": "1.17.40",
+	"description": "Jeff and friends will steal everything you own!",
+	"experimentalGameplay": {
+		"cavesAndCliffs": false,
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"additionalModdingCapabilities": false,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": true,
+		"educationEdition": true
+	},
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP",
+		"skinPack": "./SP"
+	},
+	"compiler": {
+		"plugins": [
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			[
+				"simpleRewrite",
+				{
+					"packName": "Jeff X V1"
+				}
+			]
+		]
+	}
+}

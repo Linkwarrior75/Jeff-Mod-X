@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Link"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5"
+			]
+		}
+	},
+	"header": {
+		"name": "Jeff X V1",
+		"description": "Jeff will steal your fancy costumes and you!",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "0b965a1a-84ac-42bb-814b-9f9f1b6569f8",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "skin_pack",
+			"uuid": "89401aaa-6442-4915-82ae-23a1f567d83f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

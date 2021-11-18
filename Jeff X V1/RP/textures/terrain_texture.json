@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Jeff Mod X V1 BETA",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"jeffx_jeff": {
+			"textures": "textures/blocks/jeff"
+		}
+	}
+}

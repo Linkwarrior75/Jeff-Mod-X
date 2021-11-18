@@ -1,0 +1,38 @@
+{
+	"0": {
+		"type": "skin_pack",
+		"uuid": "74a60cd7-c375-4466-9a87-ae8f7a984064",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Link"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5"
+			]
+		}
+	},
+	"header": {
+		"name": "Jeff X Skins",
+		"description": "Jeff will steal your snazzy outfits and you",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "cad9ca5e-d328-40b7-9889-1c2aaf3b27d4",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": []
+}

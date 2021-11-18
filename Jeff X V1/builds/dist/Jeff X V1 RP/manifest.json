@@ -1,0 +1,49 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Link"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5"
+			]
+		}
+	},
+	"header": {
+		"name": "Jeff X V1",
+		"description": "Jeff will steal your swag art and you!",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "8bc306e3-6631-40f8-8e02-42e571ec5a05",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "50c58b5f-5829-4f3f-be10-172707d067e2",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "d60f0964-d047-4765-9eec-f0785de7e45d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

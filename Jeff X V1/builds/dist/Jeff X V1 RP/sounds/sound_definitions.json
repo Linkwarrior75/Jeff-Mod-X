@@ -1,0 +1,13 @@
+{
+	"sound_definitions": {
+		"jeffx.nomnomboot": {
+			"subtitle": "NOISILY STEPS ON JEFF",
+			"sounds": [
+				"sounds/ediblebootnom"
+			],
+			"min_distance": 0,
+			"max_distance": 5,
+			"category": "block"
+		}
+	}
+}
