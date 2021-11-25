@@ -14,7 +14,7 @@
 		"additionalModdingCapabilities": false,
 		"upcomingCreatorFeatures": true,
 		"enableGameTestFramework": false,
-		"experimentalMolangFeatures": true,
+		"experimentalMolangFeatures": 0,
 		"educationEdition": true
 	},
 	"packs": {

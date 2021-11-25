@@ -6,12 +6,6 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "jeffnomadskin.png",
 			"type": "free"
-		},
-		{
-			"localization_name": "The Corrupted",
-			"geometry": "geometry.humanoid.custom",
-			"texture": "thecorruptedskin.png",
-			"type": "free"
 		}
 	],
 	"serialize_name": "Jeff X Skins",

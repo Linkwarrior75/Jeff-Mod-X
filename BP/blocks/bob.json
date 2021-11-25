@@ -1,0 +1,31 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "jeffx:bob",
+			"is_experimental": true
+		},
+		"components": {
+			"minecraft:unit_cube": {},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "jeffx_bob",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:display_name": "Bob",
+			"minecraft:immovable": true,
+			"minecraft:breakonpush": false,
+			"minecraft:destroy_time": 8.4,
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 15,
+			"minecraft:flammable": {
+				"burn_odds": 100,
+				"flame_odds": 1
+			},
+			"minecraft:friction": 0.1,
+			"minecraft:explosion_resistance": 0,
+			"minecraft:map_color": "#FF0000"
+		}
+	}
+}
