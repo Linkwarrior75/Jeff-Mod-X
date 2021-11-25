@@ -41,24 +41,12 @@
 		},
 		"events": {
 			"jeffx:sped": {
-				"sequence": [
-					{
-						"play_sound": {
-							"target": "holder",
-							"sound": "jeffx.nomnomboot"
-						}
-					},
-					{
-						"add_mob_effect": {
-							"target": "holder",
-							"effect": "speed",
-							"duration": 10,
-							"amplifier": 1.5,
-							"visible": true,
-							"display_on_screen_animation": true
-						}
-					}
-				]
+				"add_mob_effect": {
+					"target": "holder",
+					"effect": "speed",
+					"duration": 10,
+					"amplifier": 2
+				}
 			}
 		}
 	}
