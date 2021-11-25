@@ -6,6 +6,12 @@
 	"texture_data": {
 		"jeffx_jeff": {
 			"textures": "textures/blocks/jeff"
+		},
+		"jeffx_bob": {
+			"textures": "textures/blocks/bob"
+		},
+		"jeffx_char": {
+			"textures": "textures/blocks/unknown"
 		}
 	}
 }

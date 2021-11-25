@@ -4,7 +4,7 @@
 		1,
 		0
 	],
-	"jeffx:jeff": {
-		"sound": "jeffx.nomnomboot"
+	"jeffx:char": {
+		"sound": "stone"
 	}
 }
